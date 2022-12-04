@@ -1,5 +1,5 @@
 print("dau")
-
+print("yeu em hai nhieu lam")
 print("haha")
 print("giua")
 print("hola")
