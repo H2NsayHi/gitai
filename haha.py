@@ -12,3 +12,6 @@ c = a + b
 
 print("edit on com")
 print("sua tren may tinh")
+
+
+print("1")
