@@ -1,3 +1,5 @@
+print("dau")
+
 print("haha")
 print("hola")
 a = 1
