@@ -1,6 +1,7 @@
 print("dau")
 
 print("haha")
+print("giua")
 print("hola")
 a = 1
 b = 2
